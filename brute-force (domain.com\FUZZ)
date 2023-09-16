@@ -588,3 +588,5 @@ api/v1/auth/forgot_password
 /v3/weather/now.json
 /v3/withdrawals-fungible
 /v3/withdrawals-nonfungible
+/new
+/verify
