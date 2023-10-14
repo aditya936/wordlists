@@ -13532,3 +13532,6 @@ zto
 settings
 phpmyadmin/setup/index.php
 phpMyAdmin/setup/index.php
+env/.config
+.env/config
+.env.example
