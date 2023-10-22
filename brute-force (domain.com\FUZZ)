@@ -13535,3 +13535,4 @@ phpMyAdmin/setup/index.php
 env/.config
 .env/config
 .env.example
+.gitlab-ci.yml
