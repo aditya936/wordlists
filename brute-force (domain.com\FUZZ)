@@ -5417,6 +5417,7 @@ conf_global
 conf_global.%EXT%
 conference/
 config.php
+config.php~
 config/
 config1
 config1.%EXT%
