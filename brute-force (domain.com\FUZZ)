@@ -13537,3 +13537,6 @@ env/.config
 .env/config
 .env.example
 .gitlab-ci.yml
+startup.sh
+startup.cfg
+startup
