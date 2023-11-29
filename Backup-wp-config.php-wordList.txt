@@ -274,3 +274,11 @@ wp-config._1
 wp-config._2
 wp-config._backup
 wp-config.rar
+wp-config,txt
+wp-config.PHP
+wp-config.php...
+wp-config.php....
+wp-config.md
+wp-config.php.md
+wp-config.php_orig
+wp-config.
