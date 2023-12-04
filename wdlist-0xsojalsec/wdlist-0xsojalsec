@@ -1,1 +1,12 @@
-1
+#redirect params (bcs some param i c 1st time)
+https://github.com/0xSojalSec/word-list/blob/main/redirect.txt
+
+#swagger site/path enum
+https://github.com/0xSojalSec/word-list/blob/main/Swagger-brute-force/swagger.paths.txt
+
+#vulnerability checklist (cookie, register,ATO,passwd reset,admin,2FA,jira,recon res,aem, business logic etc)
+https://github.com/0xSojalSec/word-list/tree/main/vulnerability-Checklist
+
+
+#his own api-wdlist not too much line
+https://github.com/0xSojalSec/word-list/blob/main/API-path-brute-force-lists.
