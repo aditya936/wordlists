@@ -2169,6 +2169,8 @@ database.yml.pgsql
 database.yml.sqlite3
 database.yml_original
 database.yml~
+config/environments/production.rb
+production.rb
 database.zip
 database/
 database/database/
