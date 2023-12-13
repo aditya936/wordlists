@@ -1347,6 +1347,13 @@ api
 api-doc
 api-docs
 api.log
+api/Config
+api/json
+api/DynamicData/GetDynamicData
+api/iatpm-findings
+webjars
+api/nutanix/v3/
+api/doc/json
 api.php
 api.py
 api.zip
@@ -3348,6 +3355,7 @@ management/env
 manager
 manager.php
 manager/
+managers/
 manager/admin.asp
 manager/html
 manager/login
